@@ -15,7 +15,7 @@
     <body>
         <header class="header">
             <div class="main-header">
-                <img src="https://storage.cloud.google.com/aplikasi_profile/dewa_logo.png" class="dewa_logo">
+                <img src="https://storage.googleapis.com/dicoding_aplikasi_profile/dewa_logo.png" class="dewa_logo">
             </div>
             <nav>
                 <ul>
@@ -73,7 +73,7 @@
                 <header>
                     <h3>Dewa 19</h3>
                     <figure>
-                        <img src="https://storage.cloud.google.com/aplikasi_profile/aside.jpg" alt="Formasi Dewa 19 sejak tahun 2011">
+                        <img src="https://storage.googleapis.com/dicoding_aplikasi_profile/aside.jpg" alt="Formasi Dewa 19 sejak tahun 2011">
                         <figcaption>Formasi Dewa 19 sejak tahun 2011 (dari arah kiri: Dhani, Andra, Agung, dan Yuke)</figcaption>
                     </figure>
                 </header>
