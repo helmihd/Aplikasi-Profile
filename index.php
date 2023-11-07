@@ -4,7 +4,7 @@
         <title>Dewa 19 - Profile</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="styles/styles.css">
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
@@ -15,7 +15,7 @@
     <body>
         <header class="header">
             <div class="main-header">
-                <img src="dewa_logo.png" class="dewa_logo">
+                <img src="images/dewa_logo.png" class="dewa_logo">
             </div>
             <nav>
                 <ul>
@@ -73,7 +73,7 @@
                 <header>
                     <h3>Dewa 19</h3>
                     <figure>
-                        <img src="aside.jpg" alt="Formasi Dewa 19 sejak tahun 2011">
+                        <img src="images/aside.jpg" alt="Formasi Dewa 19 sejak tahun 2011">
                         <figcaption>Formasi Dewa 19 sejak tahun 2011 (dari arah kiri: Dhani, Andra, Agung, dan Yuke)</figcaption>
                     </figure>
                 </header>
