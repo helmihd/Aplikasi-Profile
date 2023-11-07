@@ -1,0 +1,105 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+main {
+    margin: 20px;
+}
+
+nav a:hover {
+    font-weight: 1000;
+}
+
+.dewa_logo {
+    width: 10%;
+}
+
+.header {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.main-header {
+    padding: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav {
+    background-color: #212121;
+    padding: 5px;
+    display: flex;
+    justify-content: center
+}
+
+nav a {
+    font-weight: 500;
+    text-decoration: none; 
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding-left: 20px;
+}
+
+footer {
+    padding: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    flex: 0 0 25%;
+    padding: 20px
+}
+
+figure {
+    width: 80%;
+    align-items: center;
+}
+
+aside figure {
+    margin: 0px;
+}
+
+aside figcaption {
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+article {
+    text-align: justify;
+}
+
+#content {
+    flex: 1;
+    padding: 20px;
+}
+ 
